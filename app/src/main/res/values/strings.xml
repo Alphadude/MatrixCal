@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MatrixCal</string>
+    <string name="threedeterminant">Determinant of a 3 x 3 square matix is denoted by replacing the brackets by vertical bars and it is defined by the relation:<br/>(a<sub>1</sub>b<sub>2</sub>c<sub>3</sub> + a<sub>3</sub>b<sub>1</sub>c<sub>2</sub> + a<sub>2</sub>b<sub>3</sub>c<sub>1</sub>)-(a<sub>3</sub>b<sub>2</sub>c<sub>1</sub> + a<sub>1</sub>b<sub>3</sub>c<sub>2</sub> + a<sub>2</sub>b<sub>1</sub>c<sub>3</sub>)</string>
+    <string name="twodeterminant">The determinant of a 2 x 2 matrix is defined by (ad - cb) which is the product of the elements on the principal diagonal minus the products of the elements on the secondary diagonals.</string>
+    <string name="determinant">The determinant of a matrix A denoted by det A is a single number or algebraic expression that depends upon the elements of A or to replace the parenthesis by vertical bars.</string>
+</resources>
